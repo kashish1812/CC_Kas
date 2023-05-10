@@ -1,0 +1,14 @@
+.page-content{
+display: flex;
+direction:ltr;
+}
+.buttons{
+    margin-top: 200px;
+}
+.cart{
+    margin-top: 30px;
+    padding-right: 150px;
+}
+.linked{
+    color: red;
+}
